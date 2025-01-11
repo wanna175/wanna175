@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwe541" alt="백준 티어" />
-  <img src="http://mazandi.herokuapp.com/api?handle=qwe541&theme=dark" alt="Solved.ac 통계" />
+  <img src="http://mazandi.herokuapp.com/api?handle=qwe541&theme=warm" alt="Solved.ac 통계" />
 </div>
 
 ---
