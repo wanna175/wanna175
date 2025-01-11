@@ -9,6 +9,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanna175&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanna175&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitHub아이디&theme=radical)
 
 ---
 
@@ -18,7 +19,7 @@
 - Python 🐍 | Java ☕ | JavaScript 🌐 | C++ 🔨 | C#
 
 **프레임워크 & 라이브러리**
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+
 - Spring, React.js, Node.js
 
 **도구**
