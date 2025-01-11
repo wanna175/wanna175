@@ -1,5 +1,3 @@
---
-
 ## 🏆 백준 티어
 
 <div align="center">
