@@ -1,6 +1,20 @@
+# 안녕하세요! 👋  
+저는 **wanna175**입니다! 🌟
+
+> **"항상 성장하고, 배우고, 나누는 것을 좋아하는 개발자입니다."**
+
 ---
 
-## 🏆 GitHub Stats
+## 🏆 백준 티어
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwe541" alt="백준 티어" />
+  <img src="http://mazandi.herokuapp.com/api?handle=qwe541&theme=dark" alt="Solved.ac 통계" />
+</div>
+
+---
+
+## 🔥 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wanna175&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -10,14 +24,22 @@
 
 ---
 
-## ⚡ 사용 언어 및 도구
+## ⚡ Tech Stack
 
 <div align="center">
   <h4>🖥️ 사용 언어</h4>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+</div>
+
+<div align="center">
+  <h4>📚 프레임워크 & 라이브러리</h4>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
 <div align="center">
@@ -31,14 +53,10 @@
 
 ---
 
-## 📝 블로그
+## 📝 블로그와 포트폴리오
 
-<div align="center">
-  <a href="https://blog.naver.com/qwe541_">
-    <img src="https://via.placeholder.com/900x200.png?text=Click+to+Visit+My+Blog" alt="블로그 썸네일" style="max-width:100%;" />
-  </a>
-  <p>📖 블로그에서 더 많은 글을 확인하세요: <a href="https://blog.naver.com/qwe541_">https://blog.naver.com/qwe541_</a></p>
-</div>
+- **블로그**: [https://blog.naver.com/qwe541_](https://blog.naver.com/qwe541_)
+- **포트폴리오**: 준비 중입니다.
 
 ---
 
