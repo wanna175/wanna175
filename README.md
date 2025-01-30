@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Npcap-5F6368?style=flat-square&logo=npm&logoColor=white" alt="Npcap" />
+  <img src="https://img.shields.io/badge/wxWidgets-4C9CD3?style=flat-square&logo=wxwidgets&logoColor=white" alt="wxWidgets" />
 </div>
 
 <div align="center">
