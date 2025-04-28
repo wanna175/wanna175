@@ -35,6 +35,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Npcap-5F6368?style=flat-square&logo=npm&logoColor=white" alt="Npcap" />
   <img src="https://img.shields.io/badge/wxWidgets-4C9CD3?style=flat-square&logo=wxwidgets&logoColor=white" alt="wxWidgets" />
+  <img src="https://img.shields.io/badge/epoll-00599C?style=flat-square&logo=linux&logoColor=white" alt="epoll" />
+</div>
+<div align="center">
+  <h4>💻 운영체제</h4>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
 <div align="center">
