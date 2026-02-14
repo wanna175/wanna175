@@ -10,9 +10,12 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanna175&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna175&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=wanna175&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=wanna175&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanna175&layout=compact&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wanna175&theme=react-dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=wanna175&theme=radical" />
+
 </div>
 
 ---
